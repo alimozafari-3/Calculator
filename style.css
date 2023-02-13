@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    background-color: lightcyan;
+    display: flex;
+    justify-content: center;
+
+}
+
+.calcolytor {
+    margin-left: 50px;
+    margin-top: 60px;
+}
+
+.container {
+    background-color: turquoise;
+    width: 340px;
+    height: 450px;
+    border-radius: 15px;
+    margin-top: 120px;
+
+}
+
+.input-type {
+    border: none;
+    direction: rtl;
+    font-size: 20px;
+    width: 250px;
+    color: lightslategray;
+    background: none;
+    outline: none;
+}
+
+/* .button {
+    margin-right: 15px;
+    margin-bottom: 15px;
+    cursor: pointer;
+    border: none;
+    background-color:darkslateblue;
+    padding: 18px;
+    border-radius: 100%;
+    color: white;
+    font-size: 20px;
+    transition: all 0.3s;
+}
+
+.button:hover{
+    background-color: steelblue;
+    color: black;
+    transform: translateY(-3px);
+} */
