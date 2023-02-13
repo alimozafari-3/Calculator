@@ -30,7 +30,7 @@ body {
     outline: none;
 }
 
-/* .button {
+.button {
     margin-right: 15px;
     margin-bottom: 15px;
     cursor: pointer;
@@ -47,4 +47,4 @@ body {
     background-color: steelblue;
     color: black;
     transform: translateY(-3px);
-} */
+}
